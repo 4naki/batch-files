@@ -2,8 +2,8 @@
 title GMod Automatic Data Backup V2.0 By Naki [Waiting]
 Color 0A
 
-SET input_folder="C:\test\"
-SET output_folder="C:\test out\"
+SET input_folder="input\"
+SET output_folder="output\"
 
 echo.GMod Automatic Data Backup V1.0 By Naki
 echo.
