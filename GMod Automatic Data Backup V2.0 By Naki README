@@ -1,0 +1,5 @@
+README, change input\ with your folder location, excluding the data folder name i.e 
+good "gmod\gmod\" 
+bad "gmod\gmod\data"
+
+change output\ to your output folder, again exclude the "data" from the string
